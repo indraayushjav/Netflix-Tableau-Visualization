@@ -80,8 +80,8 @@ Interactive filters enable deeper exploration of Netflix’s global content tren
 
 # 📷 Dashboard Preview
 
-![Netflix Dashboard](<img width="593" height="743" alt="Screenshot 2026-03-04 at 3 28 52 PM" src="https://github.com/user-attachments/assets/2296977a-8c68-4f11-b19b-ef085641e428" />
-)
+<img width="593" height="743" alt="Screenshot 2026-03-04 at 3 28 52 PM" src="https://github.com/user-attachments/assets/ca197621-c7e2-4922-a550-d017fdf3c6f3" />
+
 
 ---
 
